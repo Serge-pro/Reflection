@@ -1,0 +1,3 @@
+# generic blacklist
+# List of all scanners/attackers
+# Generated: 2024-02-21 18:52:44.141743

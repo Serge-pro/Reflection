@@ -1,0 +1,2 @@
+# dns blacklist
+# Daily list of scanners/attackers for period 2024-02-20 18:52:44.137740 - 2024-02-21 18:52:44.137740

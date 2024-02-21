@@ -1,0 +1,8 @@
+
+*.sqlite3
+__pycache__/
+*.py[cod]
+*.swp
+env1/
+env2/
+.idea

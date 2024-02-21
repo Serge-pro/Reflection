@@ -1,0 +1,2 @@
+# generic blacklist
+# Weekly list of scanners/attackers for period 2024-02-14 18:52:44.141743 - 2024-02-21 18:52:44.141743

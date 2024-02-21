@@ -1,0 +1,21 @@
+2024-02-11 20:35:35 - ntp   - INFO    - Full blacklist written: 0 scanners/attackers detected
+2024-02-11 20:35:35 - ntp   - INFO    - Weekly blacklist written: 0 scanners/attackers detected
+2024-02-11 20:35:35 - ntp   - INFO    - Daily blacklist written: 0 scanners/attackers detected
+2024-02-11 20:35:35 - ntp   - INFO    - Restored previous DB state - 0 unique IPs loaded
+2024-02-11 20:35:35 - ntp   - INFO    - NTPot started at 0.0.0.0:123
+2024-02-11 20:43:14 - ntp   - INFO    - Full blacklist written: 0 scanners/attackers detected
+2024-02-11 20:43:14 - ntp   - INFO    - Weekly blacklist written: 0 scanners/attackers detected
+2024-02-11 20:43:14 - ntp   - INFO    - Daily blacklist written: 0 scanners/attackers detected
+2024-02-11 20:43:14 - ntp   - INFO    - Restored previous DB state - 0 unique IPs loaded
+2024-02-11 20:43:14 - ntp   - INFO    - NTPot started at 0.0.0.0:123
+2024-02-19 18:31:31 - ntp   - INFO    - Full blacklist written: 0 scanners/attackers detected
+2024-02-19 18:31:31 - ntp   - INFO    - Weekly blacklist written: 0 scanners/attackers detected
+2024-02-19 18:31:31 - ntp   - INFO    - Daily blacklist written: 0 scanners/attackers detected
+2024-02-19 18:31:31 - ntp   - ERROR   - Error occurred during ntp initialization: [WinError 10048] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт)
+2024-02-19 18:31:31 - ntp   - ERROR   - Error during initialization, ntp will not be started...
+2024-02-20 20:11:16 - ntp   - INFO    - Full blacklist written: 0 scanners/attackers detected
+2024-02-20 20:11:16 - ntp   - INFO    - Weekly blacklist written: 0 scanners/attackers detected
+2024-02-20 20:11:16 - ntp   - INFO    - Daily blacklist written: 0 scanners/attackers detected
+2024-02-21 18:52:44 - ntp   - INFO    - Full blacklist written: 0 scanners/attackers detected
+2024-02-21 18:52:44 - ntp   - INFO    - Weekly blacklist written: 0 scanners/attackers detected
+2024-02-21 18:52:44 - ntp   - INFO    - Daily blacklist written: 0 scanners/attackers detected
